@@ -1,0 +1,8 @@
+{
+	"@nativescript/core": {
+		"/home/wac/delivery/my_app_svelte/my-app-svelte/node_modules/@nativescript/core/platforms/android/core.aar": "79ccf34712bc4532ee4e3a2be8702053abeb3b62",
+		"/home/wac/delivery/my_app_svelte/my-app-svelte/node_modules/@nativescript/core/platforms/android/native-api-usage.json": "4a614afaa51061d74eba0cbe39100f47b0e2a10b",
+		"/home/wac/delivery/my_app_svelte/my-app-svelte/node_modules/@nativescript/core/platforms/android/res/values/ids.xml": "af407e752ae7884c6e064d1dc81008497d5ff0cc",
+		"/home/wac/delivery/my_app_svelte/my-app-svelte/node_modules/@nativescript/core/platforms/android/widgets-release.aar": "ad4d8c32ef0376cafd6c3eef5bd21198c069b092"
+	}
+}

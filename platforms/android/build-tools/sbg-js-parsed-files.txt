@@ -1,0 +1,4 @@
+/home/wac/delivery/my_app_svelte/my-app-svelte/platforms/android/app/src/main/assets/app/runtime.js
+/home/wac/delivery/my_app_svelte/my-app-svelte/platforms/android/app/src/main/assets/app/tns_modules/inspector_modules.js
+/home/wac/delivery/my_app_svelte/my-app-svelte/platforms/android/app/src/main/assets/app/vendor.js
+/home/wac/delivery/my_app_svelte/my-app-svelte/platforms/android/app/src/main/assets/app/bundle.js

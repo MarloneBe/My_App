@@ -1,0 +1,1 @@
+/home/wac/delivery/my_app_svelte/my-app-svelte/platforms/android/app/src/main/java

@@ -1,0 +1,11 @@
+{
+	"name": "my-app-svelte",
+	"id": "org.nativescript.myappsvelte",
+	"appPath": "app",
+	"appResourcesPath": "App_Resources",
+	"android": {
+		"v8Flags": "--expose_gc",
+		"markingMode": "none"
+	},
+	"main": "bundle"
+}
